@@ -3,7 +3,7 @@
 <html>
 	<head>
 	<meta name="generator" content="Hugo 0.31.1" />
-		<title>Josh Bielick</title>
+		<title>Luiz Eduardo</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="/css/main.css" />
@@ -28,7 +28,7 @@
             </div>
             <div class="content">
               <div class="inner">
-                <h1>Josh Bielick</h1>
+                <h1>Luiz Eduardo</h1>
                 <p>Ever-curious creator and collaborator. Software, team, and systems developer. <br> VP, Infrastructure at <a href="https://www.adwerx.com" target="_blank">Adwerx</a>, Durhamite
 </p>
               </div>
@@ -36,11 +36,11 @@
             <nav>
               <ul>
                 
-                  <li><a href="https://www.linkedin.com/in/joshbielick/">LinkedIn</a></li>
+                  <li><a href="https://www.linkedin.com/in/isweluiz/">LinkedIn</a></li>
                 
-                  <li><a href="https://github.com/jbielick">Github</a></li>
+                  <li><a href="https://github.com/isweluiz">Github</a></li>
                 
-                  <li><a href="https://medium.com/@jbielick">Medium</a></li>
+                  <li><a href="https://medium.com/@isweluiz">Medium</a></li>
                 
                   <li><a href="#more">more</a></li>
                 
@@ -75,21 +75,21 @@
 <ul class="icons">
 
   <li>
-    <a target="_blank" href="https://twitter.com/jbielick" class="icon fa-twitter">
+    <a target="_blank" href="https://twitter.com/isweluiz" class="icon fa-twitter">
       twitter
       <span class="label">twitter</span>
     </a>
   </li>
 
   <li>
-    <a target="_blank" href="https://vimeo.com/jbielick" class="icon fa-vimeo">
+    <a target="_blank" href="https://vimeo.com/isweluiz" class="icon fa-vimeo">
       vimeo
       <span class="label">vimeo</span>
     </a>
   </li>
 
   <li>
-    <a target="_blank" href="https://www.flickr.com/photos/jbielick" class="icon fa-flickr">
+    <a target="_blank" href="https://www.flickr.com/photos/isweluiz" class="icon fa-flickr">
       flickr
       <span class="label">flickr</span>
     </a>
@@ -117,7 +117,7 @@
 
           <footer id="footer">
             <p class="copyright">
-              &copy; 2020 Josh Bielick.
+              &copy; 2020 Luiz Eduardo.
               Original design by: <a href="https://html5up.net">HTML5 UP</a>.
               Powered by <a href="https://www.gohugo.io/">Hugo.</a>
             </p>
