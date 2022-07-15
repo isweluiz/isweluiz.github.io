@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>https://isweluiz.com/#linkedin</loc>
+    <lastmod>2017-12-08T21:07:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isweluiz.com/#github</loc>
+    <lastmod>2017-12-08T21:07:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isweluiz.com/#medium</loc>
+    <lastmod>2017-12-08T21:11:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isweluiz.com/#more</loc>
+    <lastmod>2017-12-08T20:44:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isweluiz.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isweluiz.com/#</loc>
+    <lastmod>2017-12-08T21:07:13-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isweluiz.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
